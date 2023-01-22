@@ -3,14 +3,14 @@
 
 To do list
 
--PYTHON
--JS
--JAVA
--C#
--PHP
--C++
--UML
--...
+- PYTHON
+- JS
+- JAVA
+- C#
+- PHP
+- C++
+- UML
+- ...
 
 
 *******
