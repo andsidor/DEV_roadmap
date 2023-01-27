@@ -3,11 +3,13 @@
 
 To do list
 
-- PYTHON
+
 - JS
-- JAVA
-- C#
-- PHP
+- SQL
+- PYTHON
+- JAVA / C#
+- 
+- PHP / HTML / CSS 
 - C++
 - UML
 - ...
