@@ -1,10 +1,9 @@
-# DEV_roadmap
-
+## DEV_roadmap
 
 To do list
 
 
-- JS
+- JS - on going
 - SQL
 - PYTHON
 - JAVA / C#
@@ -20,3 +19,24 @@ IDE(local/online),
 documantation,tutorials
 usefull stuff
 *******
+
+
+________________
+
+# ___ USEFUL LINKS
+- 
+- 
+ 
+# FREE X BOOKS
+-
+-
+
+# X $$ BOOKS
+-
+-
+
+# X tutorials
+-
+- 
+
+
