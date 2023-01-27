@@ -12,15 +12,7 @@ To do list
 - C++
 - UML
 - ...
-
-
-*******
-IDE(local/online),
-documantation,tutorials
-usefull stuff
-*******
-
-
+- ---
 ________________
 
 # ___ USEFUL LINKS
