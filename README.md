@@ -15,7 +15,7 @@ To do list
 - ---
 ________________
 
-# ___ USEFUL LINKS
+# X USEFUL LINKS
 - 
 - 
  
